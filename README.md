@@ -6,3 +6,8 @@ Tool to generate GitHub download graphs
 ```
 go run . --repo GoogleContainerTools/skaffold --token-path <path> > ~/skaffold-dls.html
 ```
+
+## Output example
+
+<img src="docs/screenshot.png">
+
