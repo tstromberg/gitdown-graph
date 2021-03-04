@@ -4,7 +4,7 @@ Tool to generate GitHub download graphs
 ## Usage
 
 ```
-go run . --repo GoogleContainerTools/skaffold --token-path <path> > ~/skaffold-dls.html
+go run . --repo GoogleContainerTools/skaffold --token-path <path> > skaffold.html
 ```
 
 ## Output example
